@@ -37,7 +37,7 @@ By connecting directly to a local MySQL database, I ensured real-time data refre
 To ensure only relevant and clean data was sent to Power BI, I prepared some of the data directly in MySQL.  
 Below are examples of queries I used:
 
-![Sales Insight sql_queries](sales_insight.sql)
+[Sales Insight sql_queries](sales_insight.sql)
 ---
 
 ## Dashboard Features
