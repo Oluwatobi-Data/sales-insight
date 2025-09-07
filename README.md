@@ -33,6 +33,13 @@ By connecting directly to a local MySQL database, I ensured real-time data refre
 
 ---
 
+## Example SQL Queries
+To ensure only relevant and clean data was sent to Power BI, I prepared some of the data directly in MySQL.  
+Below are examples of queries I used:
+
+![Sales Insight sql_queries](Sql_queries)
+---
+
 ## Dashboard Features
 The final dashboard provides a comprehensive view of sales performance across different business dimensions.
 
@@ -58,6 +65,7 @@ The final dashboard provides a comprehensive view of sales performance across di
 ![Sales Insight Dashboard](sales_insight.png)
 
 ---
+
 
 ## Insights & Business Impact
 1. Revenue concentration is heavily skewed towards specific markets (Delhi alone contributes over 50% of total sales).  
